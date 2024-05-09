@@ -3,10 +3,10 @@
 # import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
-
+   
 # -- Variables ------------------------------------------------------------
 # See: https://stackoverflow.com/a/36331678
-doc_datestamp = '2024-05-09'
+doc_datestamp = '2024-05-10'
 doc_description = 'This is the description of the documentation.'
 doc_license = 'GNU Free Documentation License'
 doc_name = 'OTOBO User Manual'
