@@ -67,14 +67,14 @@ To create a template:
 
 3. Fill in the required fields in Step 2 of 5 - Edit object information.
 
-.. figure:: images/import-translation-step2.png
+.. figure:: images/import-export-translation-step2.png
    :alt: Edit object information step
 
    Edit object information step
 
 4. Fill in the required fields in Step 3 of 5 - Edit format information. Here you can choose the desired Column Separator. The options are ``Colon (:)``, ``Comma (,)``, ``Dot (.)``, ``Semicolon (;)`` and ``Tabulator (TAB)``.
 
-.. figure:: images/import-translation-step3.png
+.. figure:: images/import-export-translation-step3.png
    :alt: Edit format information step
 
    Edit format information step
@@ -88,7 +88,7 @@ To create a template:
 
 6. Fill in the required fields in Step 5 of 5 - Edit search information. Here you can select a ticket attribute to have its untranslated characters exported.
 
-.. figure:: images/import-translation-step5.png
+.. figure:: images/import-export-translation-step5.png
    :alt: Edit search information step
 
    Edit search information step
