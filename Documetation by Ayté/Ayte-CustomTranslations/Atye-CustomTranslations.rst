@@ -54,10 +54,10 @@ Translation States
 .. figure:: images/TranslationsState.png
    :alt: Widget States Translations
    
-   - New translation: New translations pending to be deployed.
-   - Editing Translation: Edited translations pending deployment.
-   - Translation Marked for Deletion: Translations marked for deletion pending deployment.
-   - Deployed Translation: Active translations that have already been deployed.
+- New translation: New translations pending to be deployed.
+- Editing Translation: Edited translations pending deployment.
+- Translation Marked for Deletion: Translations marked for deletion pending deployment.
+- Deployed Translation: Active translations that have already been deployed.
 
 .. figure:: images/TranslationsStates_2.png
    :alt: Display States Translations
@@ -214,9 +214,9 @@ Translations
 .. figure:: images/TableEditTranslations.png
    :alt: List of translations for editing
 
-   - Filter Content: Translation filtering field.
-   - Content: content column with all the translated tags in the module.
-   - Translation: input column with all translations displayed with the possibility to edit and add a new translation.
+- Filter Content: Translation filtering field.
+- Content: content column with all the translated tags in the module.
+- Translation: input column with all translations displayed with the possibility to edit and add a new translation.
 
 
 
