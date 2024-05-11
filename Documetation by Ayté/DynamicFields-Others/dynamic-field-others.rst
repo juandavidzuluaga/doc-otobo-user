@@ -70,6 +70,8 @@ The Reference dynamic field allows you to point to an object within OTOBO such a
 .. figure:: images/dynamic-field-reference-options.png
    :alt: Reference Dynamic Field Options
 
+   Reference Dynamic Field Options
+
 Customer Company
 ------------------------
 
@@ -112,6 +114,8 @@ Customer User
 
 .. figure:: images/dynamic-field-reference-customer-user.png
    :alt: Customer User Reference Dynamic Field Settings
+
+   Customer User Reference Dynamic Field Settings
 
 Referenced object type
    Here we indicate the type of object to be referenced in the dynamic field.
