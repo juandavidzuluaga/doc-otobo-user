@@ -78,6 +78,8 @@ Customer Company
 .. figure:: images/dynamic-field-reference-company.png
    :alt: Compnay Reference Dynamic Field Settings
 
+   Compnay Reference Dynamic Field Settings
+
 Referenced object type
    Here we indicate the type of object to be referenced in the dynamic field.
 
