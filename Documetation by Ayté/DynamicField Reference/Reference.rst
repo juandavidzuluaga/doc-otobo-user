@@ -18,12 +18,12 @@ Field Configuration
 ------------------------
 Standard configuration for all fields is displayed.
 
-.. figure:: Images/FieldConfiguration.jpg
+.. figure:: images/FieldConfiguration.jpg
    
 
 Field Configuration Reference
 ------------------------------------
-.. figure:: Images/FieldConfigurationReference.jpg
+.. figure:: images/FieldConfigurationReference.jpg
 
 Referenced object type
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -35,46 +35,46 @@ Input mode of edit field
 
 AutoComplete
 ~~~~~~~~~~~~
-.. figure:: Images/Autocomplete_1.jpg
+.. figure:: images/Autocomplete_1.jpg
 
     Autocompletes values as they match the characters used.
 
-.. figure:: Images/Autocomplete_2.jpg
+.. figure:: images/Autocomplete_2.jpg
 
 
 Dropdown
 ~~~~~~~~~
-.. figure:: Images/Dropdown_1.jpg
+.. figure:: images/Dropdown_1.jpg
 
     Displays field values as a dropdown type.
 
-.. figure:: Images/Dropdown_2.jpg
+.. figure:: images/Dropdown_2.jpg
 
 
 Multiselect
 ~~~~~~~~~~~
-.. figure:: Images/Multiselect_1.jpg
+.. figure:: images/Multiselect_1.jpg
 
     Allows selecting multiple values for the field.
 
-.. figure:: Images/Multiselect_2.jpg  
+.. figure:: images/Multiselect_2.jpg  
 
 
 Add empty value
 ~~~~~~~~~~~~~~~
-.. figure:: Images/AddEmptyValue_1.jpg
+.. figure:: images/AddEmptyValue_1.jpg
 
     Selecting Yes in this option allows the field to be empty.
-.. figure:: Images/AddEmptyValue_2.jpg
+.. figure:: images/AddEmptyValue_2.jpg
 
     Selecting No in this option does not allow the field to be empty.
-.. figure:: Images/AddEmptyValue_3.jpg
+.. figure:: images/AddEmptyValue_3.jpg
 
 
 Group of the Agents
 ~~~~~~~~~~~~~~~~~~~
     Allows selecting the group of agents to be displayed in the field.
-.. figure:: Images/GroupAgents.jpg
+.. figure:: images/GroupAgents.jpg
 
 
 
