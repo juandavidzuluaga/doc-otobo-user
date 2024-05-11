@@ -213,19 +213,19 @@ Add empty value
 Attribute which will be searched on autocomplete
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     To select which attribute to filter the ticket (Title or Number).
-.. figure:: images/Attribute_1Tk.jpg
+.. figure:: images/Attribute_1.jpg
 
 
 Attribute which will be searched on autocomplete
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     Allows selecting which values will be displayed in the list.
-.. figure:: images/Attribute_2Tk.jpg
+.. figure:: images/Attribute_2.jpg
 
 
 Check ReferenceFilter
 ~~~~~~~~~~~~~~~~~~~~~
     It is possible to configure filters to limit the list of tickets displayed in the field.
-.. figure:: images/ReferenceFilterTk.jpg
+.. figure:: images/ReferenceFilter.jpg
 
     Object attribute
     
