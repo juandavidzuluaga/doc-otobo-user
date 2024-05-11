@@ -313,3 +313,30 @@ Export Untranslated strings of
 
 .. figure:: images/Step5_1.png
    :alt: Field Export Untraslated.
+
+
+
+Ticket Information (Translation)
+---------------------------------
+    Attributes of the ticket such as Queues and Services that are translated using the translation module will be visible in the selection tree views of the fields.
+
+
+Services in English
+
+.. figure:: images/ServicesEnglish.png
+   :alt: List Services.
+
+Services translated to Spanish in tree view
+
+.. figure:: images/ServicesSpanish.png
+   :alt: List Services translated to Spanish.
+
+Queues in English
+
+.. figure:: images/QueuesEnglish.png
+   :alt: List Queues.
+
+Queues translated to Spanish in tree view
+
+.. figure:: images/QueuesSpanish.png
+   :alt: List Queues translated to Spanish.
