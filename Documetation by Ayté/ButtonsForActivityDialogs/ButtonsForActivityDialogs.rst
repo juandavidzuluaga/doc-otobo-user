@@ -7,3 +7,5 @@ In the Process Information widget, a new style for the buttons to open the activ
 
 .. figure:: images/ButtonsForActivityDialogs.png
     :alt: Ticekt Procces Buttons
+
+    Ticekt Procces Buttons
