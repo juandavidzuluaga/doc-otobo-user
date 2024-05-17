@@ -81,14 +81,14 @@ Add empty value
 
 
 Group of the Agents
-~~~~~~~~~~~~~~~~~~~
+------------------------------------
     Allows selecting the group of agents to be displayed in the field.
 .. figure:: images/GroupAgents.jpg
    :alt: Configuration GroupAgents
 
 
 Customer Company
-------------------------
+~~~~~~~~~~~~~~~~~~~
 
 .. figure:: images/dynamic-field-reference-company.png
    :alt: Compnay Reference Dynamic Field Settings
