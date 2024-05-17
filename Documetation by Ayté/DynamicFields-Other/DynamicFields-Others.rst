@@ -1,3 +1,20 @@
+Ability for Multiple Values
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+A new functionality has been enabled for dynamic fields that allows having multiple values of the field in the published form.
+Field Configuration
+
+.. figure:: images/MultipleValues.jpg
+    :alt: Configuration Multiple Values
+
+In the configuration of dynamic fields, this option now appears, which when selecting the value "yes," enables an option to add more fields in the published form.
+
+.. figure:: images/DisplayMultipleValues.jpg
+   :alt: Display Multiple Values
+
+
+
+
 Namespaces
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -33,3 +50,5 @@ Once a dynamic field is added to a namespace, its name will appear in the follow
    :alt: Namespaces in Ticket Masks
 
    Namespaces in Ticket Masks
+
+

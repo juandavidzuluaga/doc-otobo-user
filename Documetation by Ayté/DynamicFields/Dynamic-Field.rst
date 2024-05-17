@@ -47,9 +47,11 @@ Add RegEx
 
 
 
-Dynamic Field Set 
-=================
 
+
+
+Dynamic Field Set 
+~~~~~~~~~~~~~~~~~~~
 
 This new field allows parametrizing dynamic fields within it and structuring them across rows and columns.
 
@@ -111,6 +113,9 @@ Multiple Values
    Allows using multiple values in the field structure.
 .. figure:: images/MultipleValues.jpg
    :alt: Field duplication with multiple values
+
+
+
 
 
 
