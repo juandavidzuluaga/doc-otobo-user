@@ -9,6 +9,8 @@ TicketCreate
 .. figure:: images/Transition_1.jpg
    :alt: Transition Action Module TicketCreate
 
+    Transition Action Module TicketCreate
+
 
 DynamicFieldSet 
 ---------------
@@ -17,9 +19,13 @@ DynamicFieldSet
 .. figure:: images/Transition_2.jpg
    :alt: Transition Action Module DynamicFieldSet
 
+    Tansition Action Module DynamicFieldSet
+
 
 TicketStateSet
     Introduces "PendingTime," enabling you to set an absolute pending time instead of relying solely on the old "PendingTimeDiff." These two values can be combined to indicate, for example, "5 minutes after this date."
 
 .. figure:: images/Transition_3.jpg
-   :alt: Transition Action Module TicketStateSet   
+   :alt: Transition Action Module TicketStateSet
+
+    Transition Action Module TicketStateSet   
