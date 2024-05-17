@@ -10,7 +10,7 @@ The Reference dynamic field allows you to point to an object within OTOBO such a
 
 
 Reference Dynamic Field  -  Agent 
-==================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Allows creating a field that displays created agents.
 
@@ -18,68 +18,77 @@ Field Configuration
 ------------------------
 Standard configuration for all fields is displayed.
 
-.. figure:: images/FieldConfiguration.jpg
-   
+.. figure:: images/FieldConfiguration_1.jpg
+   :alt: General dynamic field configuration
 
 Field Configuration Reference
 ------------------------------------
 .. figure:: images/FieldConfigurationReference.jpg
+   :alt: Field configuration Reference Agent
 
 Referenced object type
-~~~~~~~~~~~~~~~~~~~~~~
+------------------------------------
     Displays the selected reference type.
 
 Input mode of edit field
-~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------------
     Allows selecting the mode in which the field will be used:
 
 AutoComplete
-~~~~~~~~~~~~
+------------------------------------
 .. figure:: images/Autocomplete_1.jpg
+   :alt: Configuration Autocomplete 
 
     Autocompletes values as they match the characters used.
 
 .. figure:: images/Autocomplete_2.jpg
-
+   :alt: Display Autocomplete 
 
 Dropdown
-~~~~~~~~~
+------------------------------------
 .. figure:: images/Dropdown_1.jpg
+   :alt: Configuration Dropdown 
 
     Displays field values as a dropdown type.
 
 .. figure:: images/Dropdown_2.jpg
+   :alt: Display Dropdown 
 
 
 Multiselect
-~~~~~~~~~~~
+------------------------------------
 .. figure:: images/Multiselect_1.jpg
+   :alt: Configuration Multiselect
 
     Allows selecting multiple values for the field.
 
 .. figure:: images/Multiselect_2.jpg  
+   :alt: Display Multiselect
 
 
 Add empty value
-~~~~~~~~~~~~~~~
+------------------------------------
 .. figure:: images/AddEmptyValue_1.jpg
+   :alt: Configuration AddEmptyValue
 
     Selecting Yes in this option allows the field to be empty.
 .. figure:: images/AddEmptyValue_2.jpg
+   :alt: Display AddEmptyValue yes
 
     Selecting No in this option does not allow the field to be empty.
 .. figure:: images/AddEmptyValue_3.jpg
+   :alt: Display AddEmptyValue no
 
 
 Group of the Agents
-~~~~~~~~~~~~~~~~~~~
+------------------------------------
     Allows selecting the group of agents to be displayed in the field.
 .. figure:: images/GroupAgents.jpg
+   :alt: Configuration GroupAgents
 
 
-
-Customer Company
-------------------------
+Reference Dynamic Field Customer Company
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. figure:: images/dynamic-field-reference-company.png
    :alt: Compnay Reference Dynamic Field Settings
@@ -117,8 +126,8 @@ Add Reference Filter
     Enter a text string that will be used as a criterion to determine if there is a match between the value of the attribute of the referenced object and this string you provided.
 
 
-Customer User
-------------------------
+Reference Dynamic Field Customer User
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. figure:: images/dynamic-field-reference-customer-user.png
    :alt: Customer User Reference Dynamic Field Settings
@@ -155,77 +164,90 @@ Add Reference Filter
 
 
 Reference Dynamic Field -  Ticket
-==================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Allows selecting created tickets.
 
 Field Configuration
 ------------------------
 
 .. figure:: images/FieldConfigurationTk.jpg
+   :alt: Field configuration Reference Ticket
    
 
 Referenced object type
-~~~~~~~~~~~~~~~~~~~~~~
+------------------------
     Displays the selected reference type.
 
 Input mode of edit field
-~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------
     Allows selecting the mode in which the field will be used:
 
 AutoComplete
-~~~~~~~~~~~~
+------------------------
 .. figure:: images/Autocomplete_1Tk.jpg
+   :alt: Configuration Autocomplete Ticket 
 
     Autocompletes values as they match the characters used.
 
 .. figure:: images/Autocomplete_2Tk.jpg
+   :alt: Display Autocomplete Ticket
 
 
 Dropdown
-~~~~~~~~~
+------------------------
 .. figure:: images/Dropdown_1Tk.jpg
+   :alt: Configuration Dropdown Ticket
 
     Displays field values as a dropdown type.
 
 .. figure:: images/Dropdown_2Tk.jpg
+   :alt: Display Dropdown Ticket
 
 
 Multiselect
-~~~~~~~~~~~
+------------------------
 .. figure:: images/Multiselect_1Tk.jpg
+   :alt: Configuration Multiselect Ticket
 
     Allows selecting multiple values for the field.
 
-.. figure:: images/Multiselect_2Tk.jpg  
+.. figure:: images/Multiselect_2Tk.jpg
+   :alt: Display Multiselect Ticket
 
 
 Add empty value
-~~~~~~~~~~~~~~~
+------------------------
 .. figure:: images/AddEmptyValue_1Tk.jpg
+   :alt: Configuration AddEmptyValue Ticket
 
     Selecting Yes in this option allows the field to be empty.
 .. figure:: images/AddEmptyValue_2Tk.jpg
+   :alt: Display AddEmptyValue Ticket yes
 
     Selecting No in this option does not allow the field to be empty.
 .. figure:: images/AddEmptyValue_3Tk.jpg
+   :alt: Display AddEmptyValue Ticket no
 
 
 Attribute which will be searched on autocomplete
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------------------------------------------------
     To select which attribute to filter the ticket (Title or Number).
 .. figure:: images/Attribute_1.jpg
+   :alt: Configuration Attribute (Title or Number)
 
 
 Attribute which will be searched on autocomplete
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------------------------------------------------
     Allows selecting which values will be displayed in the list.
 .. figure:: images/Attribute_2.jpg
+   :alt: Configuration Attribute which will be searched on autocomplete
 
 
 Check ReferenceFilter
-~~~~~~~~~~~~~~~~~~~~~
+------------------------
     It is possible to configure filters to limit the list of tickets displayed in the field.
 .. figure:: images/ReferenceFilter.jpg
+   :alt: Configuration ReferenceFilter
 
     Object attribute
     
