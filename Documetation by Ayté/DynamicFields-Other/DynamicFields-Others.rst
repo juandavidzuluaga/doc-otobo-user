@@ -7,10 +7,15 @@ Field Configuration
 .. figure:: images/MultipleValues.jpg
     :alt: Configuration Multiple Values
 
+    Configuration Multiple Values
+
 In the configuration of dynamic fields, this option now appears, which when selecting the value "yes," enables an option to add more fields in the published form.
 
 .. figure:: images/DisplayMultipleValues.jpg
    :alt: Display Multiple Values
+
+    Display Multiple Values
+
 
 
 
