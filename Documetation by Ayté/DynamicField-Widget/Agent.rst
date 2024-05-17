@@ -6,11 +6,14 @@ Upon entering the Dynamic Fields for this Screen module and selecting the ``Dyna
 .. figure:: images/DynamicFieldScreen.png
    :alt: Dynamic field Screen
 
+   Dynamic field Screen
+
 After submitting, dynamic fields with the selected value for each field will be displayed in a widget on the AgentTicketZoom.
 
 .. figure:: images/DynamicFieldWidget.png
    :alt: Widget Dynamic Field - AgentTicketZoom
 
+   Widget Dynamic Field - AgentTicketZoom
 
 
 Possibility to move a locked ticket to another queue
@@ -23,9 +26,13 @@ Within the ticket options menu in the view (AgentTicketZoom), a dropdown field n
 .. figure:: images/Move_1.jpg
    :alt: Options menu- AgentTicketZoom
 
+   Options menu- AgentTicketZoom
+
 
 .. figure:: images/Move_2.jpg
    :alt: Drop-down field move
+
+   Drop-down field move
 
 
 
@@ -34,6 +41,8 @@ If the user is not the owner of the ticket, an error message will be displayed: 
 .. figure:: images/Move_3.jpg
    :alt: Error when moving the ticket - Functionality disabled
 
+   Error when moving the ticket - Functionality disabled
+
 
 Enabling New Functionality
 --------------------------
@@ -41,5 +50,7 @@ By enabling the checkbox Ticket::Frontend::MoveType::Dropdown::MoveEvenIfLocked 
 
 .. figure:: images/Move_4.jpg
    :alt: Functionality configuration widget enabled
+
+   Functionality configuration widget enabled
 
 After enabling it, it is possible to use the move field without being the ticket owner, and the change to the selected queue will be made.
