@@ -20,18 +20,18 @@ A new feature has been introduced in the System Configuration that allows for th
 
 Within the ticket options menu in the view (AgentTicketZoom), a dropdown field named "Move" has been added. Upon selecting this option, the available queues to which the ticket can be moved are displayed.
 
-.. figure:: images/Move_1.png
+.. figure:: images/Move_1.jpg
    :alt: Options menu- AgentTicketZoom
 
 
-.. figure:: images/Move_2.png
+.. figure:: images/Move_2.jpg
    :alt: Drop-down field move
 
 
 
 If the user is not the owner of the ticket, an error message will be displayed: "Sorry, you need to be the ticket owner to perform this action."
 
-.. figure:: images/Move_3.png
+.. figure:: images/Move_3.jpg
    :alt: Error when moving the ticket - Functionality disabled
 
 
@@ -39,7 +39,7 @@ Enabling New Functionality
 --------------------------
 By enabling the checkbox Ticket::Frontend::MoveType::Dropdown::MoveEvenIfLocked in the system configuration,
 
-.. figure:: images/Move_4.png
+.. figure:: images/Move_4.jpg
    :alt: Functionality configuration widget enabled
 
 After enabling it, it is possible to use the move field without being the ticket owner, and the change to the selected queue will be made.
