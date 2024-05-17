@@ -6,7 +6,7 @@
 
 # -- Variables ------------------------------------------------------------
 # See: https://stackoverflow.com/a/36331678
-doc_datestamp = '2024-04-27'
+doc_datestamp = '2024-05-16'
 doc_description = 'This is the description of the documentation.'
 doc_license = 'GNU Free Documentation License'
 doc_name = 'OTOBO User Manual'
@@ -107,7 +107,7 @@ todo_include_todos = False
 
 # -- Options for HTML output ----------------------------------------------
 
-html_logo = '/opt/otrs/var/thirdparty/_static/images/otrs-logo.png'
+html_logo = '/opt/otrs/var/thirdparty/_static/images/otobo-logo.png'
 html_theme_path = ['/opt/otrs/var/thirdparty/_sphinx-themes']
 html_theme = 'sphinx_rtd_theme'
 html_show_sphinx = False
@@ -142,7 +142,7 @@ html_copy_source = False
 html_context = {
     "display_github": True,
     "github_user": "RotherOSS",
-    "github_repo": "doc-otobo-user",
+    "github_repo": "doc-otobo-doc-otobo-user",
     "github_version": "master",
     "conf_py_path": "/",
 }
@@ -151,12 +151,12 @@ html_context = {
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'doc-otobo-user'
+htmlhelp_basename = 'doc-otobo-doc-otobo-user'
 
 
 # -- Options for LaTeX output ---------------------------------------------
 
-latex_logo = '/opt/otrs/var/thirdparty/_static/images/otrs-logo.png'
+latex_logo = '/opt/otrs/var/thirdparty/_static/images/otobo-logo.png'
 
 latex_engine = 'xelatex'
 
@@ -205,7 +205,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'doc-otobo-user.tex', 'OTOBO User Manual',
+    (master_doc, 'doc-otobo-doc-otobo-user.tex', 'OTOBO User Manual',
      'Rother OSS GmbH', 'manual'),
 ]
 
@@ -216,6 +216,6 @@ suppress_warnings = ['epub.unknown_project_files']
 
 epub_author = u'Rother OSS GmbH'
 epub_publisher = u'Rother OSS GmbH'
-epub_cover = ('/opt/otrs/var/thirdparty/_static/images/otrs-logo.png', '')
+epub_cover = ('/opt/otrs/var/thirdparty/_static/images/otobo-logo.png', '')
 epub_show_urls = 'no'
 
