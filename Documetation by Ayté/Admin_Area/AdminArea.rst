@@ -8,7 +8,6 @@ Currently, in the personal preferences, it is possible to view and configure all
 .. figure:: images/Languages_1.jpg
    :alt: Field languages - personal preferences
 
-
    Field languages - personal preferences
 
 
@@ -16,19 +15,16 @@ Currently, in the personal preferences, it is possible to view and configure all
 .. figure:: images/Languages_2.jpg
    :alt: Possible languages
 
-
    Possible languages
 
 
 .. figure:: images/Languages_3.jpg
    :alt: Possible languages 
 
-
    Possible languages
 
 .. figure:: images/Languages_4.jpg
    :alt: Possible languages
-
 
    Possible languages
 
