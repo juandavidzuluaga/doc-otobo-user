@@ -196,6 +196,8 @@ Field Configuration
 
 .. figure:: images/FieldConfigurationTk.jpg
    :alt: Field configuration Reference Ticket
+
+         Field configuration Reference Ticket
    
 
 Referenced object type
@@ -217,6 +219,8 @@ AutoComplete
 
 .. figure:: images/Autocomplete_2Tk.jpg
    :alt: Display Autocomplete Ticket
+
+         Display Autocomplete Ticket
 
 
 Dropdown
