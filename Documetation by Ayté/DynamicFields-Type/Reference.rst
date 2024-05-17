@@ -10,7 +10,7 @@ The Reference dynamic field allows you to point to an object within OTOBO such a
 
 
 Reference Dynamic Field  -  Agent 
-==================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Allows creating a field that displays created agents.
 
@@ -27,15 +27,15 @@ Field Configuration Reference
    :alt: Field configuration Reference
 
 Referenced object type
-~~~~~~~~~~~~~~~~~~~~~~
+------------------------------------
     Displays the selected reference type.
 
 Input mode of edit field
-~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------------
     Allows selecting the mode in which the field will be used:
 
 AutoComplete
-~~~~~~~~~~~~
+------------------------------------
 .. figure:: images/Autocomplete_1.jpg
    :alt: Configuration Autocomplete 
 
@@ -45,7 +45,7 @@ AutoComplete
    :alt: Display Autocomplete 
 
 Dropdown
-~~~~~~~~~
+------------------------------------
 .. figure:: images/Dropdown_1.jpg
    :alt: Configuration Dropdown 
 
@@ -56,7 +56,7 @@ Dropdown
 
 
 Multiselect
-~~~~~~~~~~~
+------------------------------------
 .. figure:: images/Multiselect_1.jpg
    :alt: Configuration Multiselect
 
@@ -67,7 +67,7 @@ Multiselect
 
 
 Add empty value
-~~~~~~~~~~~~~~~
+------------------------------------
 .. figure:: images/AddEmptyValue_1.jpg
    :alt: Configuration AddEmptyValue
 
@@ -164,7 +164,7 @@ Add Reference Filter
 
 
 Reference Dynamic Field -  Ticket
-==================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Allows selecting created tickets.
 
 Field Configuration
@@ -174,15 +174,15 @@ Field Configuration
    
 
 Referenced object type
-~~~~~~~~~~~~~~~~~~~~~~
+------------------------
     Displays the selected reference type.
 
 Input mode of edit field
-~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------
     Allows selecting the mode in which the field will be used:
 
 AutoComplete
-~~~~~~~~~~~~
+------------------------
 .. figure:: images/Autocomplete_1Tk.jpg
 
     Autocompletes values as they match the characters used.
@@ -191,7 +191,7 @@ AutoComplete
 
 
 Dropdown
-~~~~~~~~~
+------------------------
 .. figure:: images/Dropdown_1Tk.jpg
 
     Displays field values as a dropdown type.
@@ -200,7 +200,7 @@ Dropdown
 
 
 Multiselect
-~~~~~~~~~~~
+------------------------
 .. figure:: images/Multiselect_1Tk.jpg
 
     Allows selecting multiple values for the field.
@@ -209,7 +209,7 @@ Multiselect
 
 
 Add empty value
-~~~~~~~~~~~~~~~
+------------------------
 .. figure:: images/AddEmptyValue_1Tk.jpg
 
     Selecting Yes in this option allows the field to be empty.
@@ -220,19 +220,19 @@ Add empty value
 
 
 Attribute which will be searched on autocomplete
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------------------------------------------------
     To select which attribute to filter the ticket (Title or Number).
 .. figure:: images/Attribute_1.jpg
 
 
 Attribute which will be searched on autocomplete
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------------------------------------------------
     Allows selecting which values will be displayed in the list.
 .. figure:: images/Attribute_2.jpg
 
 
 Check ReferenceFilter
-~~~~~~~~~~~~~~~~~~~~~
+------------------------
     It is possible to configure filters to limit the list of tickets displayed in the field.
 .. figure:: images/ReferenceFilter.jpg
 
