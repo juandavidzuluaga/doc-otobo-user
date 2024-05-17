@@ -18,12 +18,13 @@ Field Configuration
 ------------------------
 Standard configuration for all fields is displayed.
 
-.. figure:: images/FieldConfiguration.jpg
-   
+.. figure:: FieldConfiguration_1.jpg
+   :alt: General dynamic field configuration
 
 Field Configuration Reference
 ------------------------------------
 .. figure:: images/FieldConfigurationReference.jpg
+   :alt: Field configuration Reference
 
 Referenced object type
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -36,46 +37,54 @@ Input mode of edit field
 AutoComplete
 ~~~~~~~~~~~~
 .. figure:: images/Autocomplete_1.jpg
+   :alt: Configuration Autocomplete 
 
     Autocompletes values as they match the characters used.
 
 .. figure:: images/Autocomplete_2.jpg
-
+   :alt: Display Autocomplete 
 
 Dropdown
 ~~~~~~~~~
 .. figure:: images/Dropdown_1.jpg
+   :alt: Configuration Dropdown 
 
     Displays field values as a dropdown type.
 
 .. figure:: images/Dropdown_2.jpg
+   :alt: Display Dropdown 
 
 
 Multiselect
 ~~~~~~~~~~~
 .. figure:: images/Multiselect_1.jpg
+   :alt: Configuration Multiselect
 
     Allows selecting multiple values for the field.
 
 .. figure:: images/Multiselect_2.jpg  
+   :alt: Display Multiselect
 
 
 Add empty value
 ~~~~~~~~~~~~~~~
 .. figure:: images/AddEmptyValue_1.jpg
+   :alt: Configuration AddEmptyValue
 
     Selecting Yes in this option allows the field to be empty.
 .. figure:: images/AddEmptyValue_2.jpg
+   :alt: Display AddEmptyValue yes
 
     Selecting No in this option does not allow the field to be empty.
 .. figure:: images/AddEmptyValue_3.jpg
+   :alt: Display AddEmptyValue no
 
 
 Group of the Agents
 ~~~~~~~~~~~~~~~~~~~
     Allows selecting the group of agents to be displayed in the field.
 .. figure:: images/GroupAgents.jpg
-
+   :alt: Configuration GroupAgents
 
 
 Customer Company
