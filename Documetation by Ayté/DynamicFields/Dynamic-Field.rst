@@ -73,8 +73,8 @@ Configuration
    Set dynamic field configuration
 
 
-   Dynamic Fields
-   --------------
+Dynamic Fields
+--------------
    This text field is used to parameterize the fields that will be displayed in YAML format.
 
    Grid
