@@ -78,32 +78,32 @@ Dynamic Fields
 This text field is used to parameterize the fields that will be displayed in YAML format.
 
    Grid
-   ~~~~
+   -------
    It's a variable that defines a container to organize elements in 
    rows and columns.
 
    Columns
-   ~~~~~~~
+   -------
    Specifies the number of columns in the structure.
 
    ColumnWidth
-   ~~~~~~~~~~~
+   --------------
    Specifies the width of the columns, using pixels in the example.
    
    Rows
-   ~~~~
+   -------
    A list containing the rows of the structure.
 
    ColumnStart
-   ~~~~~~~~~~~
+   -------
    Indicates which column the data field starts in.
 
    DF
-   ~~
+   -------
    Represents the dynamic field; the field name should be indicated.
 
    Mandatory
-   ~~~~~~~~~
+   -------
    Indicates if the dynamic field is mandatory ('1' for yes and '0' for 
    no).
 
