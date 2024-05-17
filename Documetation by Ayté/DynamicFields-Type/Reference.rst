@@ -24,7 +24,7 @@ Standard configuration for all fields is displayed.
 Field Configuration Reference
 ------------------------------------
 .. figure:: images/FieldConfigurationReference.jpg
-   :alt: Field configuration Reference
+   :alt: Field configuration Reference Agent
 
 Referenced object type
 ------------------------------------
@@ -171,6 +171,7 @@ Field Configuration
 ------------------------
 
 .. figure:: images/FieldConfigurationTk.jpg
+   :alt: Field configuration Reference Ticket
    
 
 Referenced object type
@@ -184,57 +185,69 @@ Input mode of edit field
 AutoComplete
 ------------------------
 .. figure:: images/Autocomplete_1Tk.jpg
+   :alt: Configuration Autocomplete Ticket 
 
     Autocompletes values as they match the characters used.
 
 .. figure:: images/Autocomplete_2Tk.jpg
+   :alt: Display Autocomplete Ticket
 
 
 Dropdown
 ------------------------
 .. figure:: images/Dropdown_1Tk.jpg
+   :alt: Configuration Dropdown Ticket
 
     Displays field values as a dropdown type.
 
 .. figure:: images/Dropdown_2Tk.jpg
+   :alt: Display Dropdown Ticket
 
 
 Multiselect
 ------------------------
 .. figure:: images/Multiselect_1Tk.jpg
+   :alt: Configuration Multiselect Ticket
 
     Allows selecting multiple values for the field.
 
-.. figure:: images/Multiselect_2Tk.jpg  
+.. figure:: images/Multiselect_2Tk.jpg
+   :alt: Display Multiselect Ticket
 
 
 Add empty value
 ------------------------
 .. figure:: images/AddEmptyValue_1Tk.jpg
+   :alt: Configuration AddEmptyValue Ticket
 
     Selecting Yes in this option allows the field to be empty.
 .. figure:: images/AddEmptyValue_2Tk.jpg
+   :alt: Display AddEmptyValue Ticket yes
 
     Selecting No in this option does not allow the field to be empty.
 .. figure:: images/AddEmptyValue_3Tk.jpg
+   :alt: Display AddEmptyValue Ticket no
 
 
 Attribute which will be searched on autocomplete
 ------------------------------------------------------------------------
     To select which attribute to filter the ticket (Title or Number).
 .. figure:: images/Attribute_1.jpg
+   :alt: Configuration Attribute (Title or Number)
 
 
 Attribute which will be searched on autocomplete
 ------------------------------------------------------------------------
     Allows selecting which values will be displayed in the list.
 .. figure:: images/Attribute_2.jpg
+   :alt: Configuration Attribute which will be searched on autocomplete
 
 
 Check ReferenceFilter
 ------------------------
     It is possible to configure filters to limit the list of tickets displayed in the field.
 .. figure:: images/ReferenceFilter.jpg
+   :alt: Configuration ReferenceFilter
 
     Object attribute
     
