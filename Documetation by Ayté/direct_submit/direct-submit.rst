@@ -9,5 +9,8 @@ The DirectSubmit functionality allows for a streamlined user experience by bypas
 
    Direct Submit Field
 
+
+By implementing DirectSubmit, organizations can optimize their process management workflows, ensuring that actions are executed swiftly and with minimal user intervention.
+
 .. note::
    If one of the fields is set to be shown, the message error “This property won't take effect because there are fields configured as visible.” will be displayed.
