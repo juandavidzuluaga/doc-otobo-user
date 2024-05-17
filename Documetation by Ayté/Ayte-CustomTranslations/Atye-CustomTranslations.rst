@@ -7,10 +7,15 @@ Item “Translations”
 .. figure:: images/ItemTranslations.png
    :alt: Widget Languages
 
+    Widget Languages
+
+
    By clicking on the Translations item, the user displays the subaction "Overview".
 
 .. figure:: images/ModuleTranslations.png
    :alt: Overview Module Translations
+
+    Overview Module Translations
 
    It contains the following elements:
 
@@ -19,6 +24,8 @@ Language Dropdown
 
 .. figure:: images/Actions.png
    :alt: Actions - Languages
+
+    Actions - Languages
 
 
 Add Translation
@@ -33,12 +40,16 @@ Deploy Translations
 .. figure:: images/ActionsTranslations.png
    :alt: Buttons Translations
 
+    Buttons Translations
+
 
 Active Translations 
     Table with all translations displayed.
 
 .. figure:: images/ActiveTranslations.png
    :alt: Table Active Translations
+
+    Table Active Translations
 
 
 Filter
@@ -47,12 +58,16 @@ Filter
 .. figure:: images/Filter.png
    :alt: Filter Active Translations
 
+    Filter Active Translations
+
 
 Translation States
     Possible translation statuses.
 
 .. figure:: images/TranslationsState.png
    :alt: Widget States Translations
+
+    Widget States Translations
    
 - New translation: New translations pending to be deployed.
 - Editing Translation: Edited translations pending deployment.
@@ -62,12 +77,16 @@ Translation States
 .. figure:: images/TranslationsStates_2.png
    :alt: Display States Translations
 
+    Display States Translations
+
 
 Hint
     This widget contains a short explanatory text about the module.
 
 .. figure:: images/Hint.png
    :alt: Widget Hint
+
+    Widget Hint
 
 
 
@@ -78,6 +97,8 @@ Add translation screen
 .. figure:: images/AddTranslationsScreen.png
    :alt: Overview Add Translation
 
+    Overview Add Translation
+
     When entering the section to add a new translation, a new screen is displayed with the following elements:
 
 Actions
@@ -86,11 +107,15 @@ Actions
 .. figure:: images/ActionsAddTranslations.png
    :alt: Widget actions Add Translation
 
+    Widget actions Add Translation
+
 Hint
     This widget contains a short explanatory text about the section the user is in.
 
 .. figure:: images/HintAddTranslations.png
    :alt: Widget Hint Add Translation
+
+    Widget Hint Add Translation
 
 Language 
     Informative label of the language where the translation will be created.
@@ -101,11 +126,15 @@ Object
 .. figure:: images/ObjectAddTranslations.png
    :alt: Object field
 
+    Object field
+
 Dynamic Field List
     This field is displayed only when "Dynamic Field" is selected in the "Object" field. It contains the names of the dynamic fields.
 
 .. figure:: images/DynamicFieldList.png
    :alt: Dynamic Field List
+
+    Dynamic Field List
 
 Content
     This text field contains the tags to translate.
@@ -113,11 +142,15 @@ Content
 .. figure:: images/Content.png
    :alt: Content Field
 
+    Content Field
+
 Translation
     Text field or table depending on the selected option, where the translation is entered.
 
 .. figure:: images/TranslationField.png
    :alt: Translation Field  
+
+    Translation Field
 
 Button Save and Finish
     To save the translation and finish.
@@ -138,18 +171,24 @@ Dynamic Field Contents
 .. figure:: images/OptionDynamicFieldContents.png
    :alt: Table for translation - Dynamic Field Content
 
+    Table for translation - Dynamic Field Content
+
 Dynamic Field Labels
     Displays all existing dynamic fields in the system and a field is chosen to translate the label
 
 .. figure:: images/OptionDynamicFieldLabels.png
-   :alt: Table for translation - Dynamic Field Labels  
+   :alt: Table for translation - Dynamic Field Labels
 
+    Table for translation - Dynamic Field Labels
+    
 
 General Label
     Allows to translate any existing label in the system.
 
 .. figure:: images/OptionGeneralLabel.png
-   :alt: Fields for translation - General labes  
+   :alt: Fields for translation - General labes
+
+    Fields for translation - General labes
    
 
 Priorities
@@ -158,12 +197,15 @@ Priorities
 .. figure:: images/OptionPriorities.png
    :alt: Fields for translation - Priorities
 
+    Fields for translation - Priorities
 
 Queues
     Allows to translate all existing queues.
 
 .. figure:: images/OptionQueues.png
    :alt: Fields for translation - Queues
+
+    Fields for translation - Queues
 
 
 Services
@@ -172,12 +214,16 @@ Services
 .. figure:: images/OptionServices.png
    :alt: Fields for translation - Services
 
+    Fields for translation - Services
+
 
 SLAs
     Allows translation of all SLAs.
 
 .. figure:: images/OptionSLAs.png
    :alt: Fields for translation - SLAs  
+
+    Fields for translation - SLAs  
 
 
 Templates
@@ -186,6 +232,8 @@ Templates
 .. figure:: images/OptionsTemplates.png
    :alt: Fields for translation - Templates
 
+    Fields for translation - Templates
+
 
 Tickets States
     Allows translation of ticket statuses.
@@ -193,12 +241,17 @@ Tickets States
 .. figure:: images/OptionTicketsStates.png
    :alt: Fields for translation - Ticket States
 
+    Fields for translation - Ticket States
+
+
 
 Tickets Types
     Allows translation of ticket types.
 
 .. figure:: images/OptionTicketTypes.png
    :alt: Fields for translation - Ticket Types
+
+    Fields for translation - Ticket Types
 
 
 
@@ -214,6 +267,8 @@ Translations
 .. figure:: images/TableEditTranslations.png
    :alt: List of translations for editing
 
+    List of translations for editing
+
 - Filter Content: Translation filtering field.
 - Content: content column with all the translated tags in the module.
 - Translation: input column with all translations displayed with the possibility to edit and add a new translation.
@@ -226,6 +281,8 @@ Deploy Translation
 
 .. figure:: images/DeployTranslations.png
    :alt: Table of displayed translations.
+
+    Table of displayed translations.
 
 
 
@@ -246,10 +303,14 @@ Format
 .. figure:: images/AddTemplate.png
    :alt: Fields Add template.
 
+    Fields Add template.
+
    In the second step, the following fields are displayed:
 
 .. figure:: images/Step2.png
    :alt: Fields Step 2.
+
+    Fields Step 2.
 
 Format
     Plain text format is selected.
@@ -266,12 +327,16 @@ Column Separator
 .. figure:: images/Step3_1.png
    :alt: Field Column separator Step 3.
 
+    Field Column separator Step 3.
+
 
 Charset
     The default character encoding is unmodifiable and according to the previously selected language.
 
 .. figure:: images/Step3_2.png
    :alt: Field Charset Step 3.
+
+    Field Charset Step 3.
 
 
 Include Column Headers
@@ -280,12 +345,16 @@ Include Column Headers
 .. figure:: images/Step3_3.png
    :alt: Field Include Column Headers Step 3.
 
+    Field Include Column Headers Step 3.
+
 
 
     In the fourth step, the order of the file columns is defined:
 
 .. figure:: images/Step4.png
    :alt: Information mapping table.
+
+    Information mapping table.
 
 Add Mapping Element
     To add the sections or columns of the file.
@@ -298,12 +367,17 @@ Key
 .. figure:: images/Step4_1.png
    :alt: Mapped information.
 
+    Mapped information.
+
 
 
     In the fifth step you define whether you want to export untranslated strings of specific objects:
 
 .. figure:: images/Step5.png
    :alt: Search information.
+
+    Search information.
+
 
 Restrict export per search
     allows you to choose whether you want to restrict the export by searching for specific options.
@@ -313,6 +387,8 @@ Export Untranslated strings of
 
 .. figure:: images/Step5_1.png
    :alt: Field Export Untraslated.
+
+    Field Export Untraslated.
 
 
 
@@ -326,17 +402,27 @@ Services in English
 .. figure:: images/ServicesEnglish.png
    :alt: List Services.
 
+    List Services.
+
 Services translated to Spanish in tree view
 
 .. figure:: images/ServicesSpanish.png
    :alt: List Services translated to Spanish.
+
+    List Services translated to Spanish.
+
 
 Queues in English
 
 .. figure:: images/QueuesEnglish.png
    :alt: List Queues.
 
+    List Queues.
+
 Queues translated to Spanish in tree view
 
 .. figure:: images/QueuesSpanish.png
    :alt: List Queues translated to Spanish.
+
+    List Queues translated to Spanish.
+
