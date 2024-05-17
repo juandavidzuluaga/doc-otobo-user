@@ -18,7 +18,7 @@ Field Configuration
 ------------------------
 Standard configuration for all fields is displayed.
 
-.. figure:: FieldConfiguration_1.jpg
+.. figure:: images/FieldConfiguration_1.jpg
    :alt: General dynamic field configuration
 
 Field Configuration Reference
