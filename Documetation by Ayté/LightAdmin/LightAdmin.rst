@@ -1,6 +1,6 @@
 Light Admin
 ~~~~~~~~~~~~~~
-   Enables controlled access to specific administrative functions by designated user groups.
+Enables controlled access to specific administrative functions by designated user groups.
 
 Creation of the Light Group
    Within the Groups module, the creation of the new group named "light" is carried out.
