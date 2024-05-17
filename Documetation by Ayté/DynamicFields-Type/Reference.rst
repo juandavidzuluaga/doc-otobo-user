@@ -87,7 +87,7 @@ Group of the Agents
    :alt: Configuration GroupAgents
 
 
-Customer Company
+Reference Dynamic Field Customer Company
 ~~~~~~~~~~~~~~~~~~~
 
 .. figure:: images/dynamic-field-reference-company.png
@@ -126,7 +126,7 @@ Add Reference Filter
     Enter a text string that will be used as a criterion to determine if there is a match between the value of the attribute of the referenced object and this string you provided.
 
 
-Customer User
+Reference Dynamic Field Customer User
 ------------------------
 
 .. figure:: images/dynamic-field-reference-customer-user.png
