@@ -34,7 +34,7 @@ Currently, in the personal preferences, it is possible to view and configure all
 Capability to Send Ticket Notifications Only During Working Hours
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-A new option has been added to the ticket notification settings. Now, within the recipients section, an additional field named "Calendar" is displayed.
+A new option has been added to the ticket notification settings. Now, within the recipient's section, an additional field named "Calendar" is displayed.
 
 .. figure:: images/Notification_1.jpg
    :alt: Recipient block configuration
@@ -61,3 +61,27 @@ This field allows for the selection of whether notifications should be sent to r
 
 
    Option outside working hours
+
+
+Filter funcionalities in PostMaster Filters
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The PostMaster Filters module now includes an enhanced filtering capability that extends beyond simple name-based searches. This advanced filter functionality enables more complex and granular searches, allowing users to input specific criteria, such as an email address, to locate all PostMaster filters that match the given parameter.
+
+.. figure:: images/postmaster_filter_management.png
+   :alt: Postmaster Filter Management
+
+
+   Postmaster Filter Management
+
+The ``Search all filter attributes`` field enables more complex searches.
+
+.. figure:: images/search_by_all_attributes.png
+   :alt: Search by All Attributes
+
+
+   Search by All Attributes
+
+
+The second and third filters allow searching selected header fields and selected set fields, respectively.
+
