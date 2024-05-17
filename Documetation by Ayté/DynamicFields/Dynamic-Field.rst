@@ -83,7 +83,7 @@ Configuration
    rows and columns.
 
    Columns
-   -------
+   --------------
    Specifies the number of columns in the structure.
 
    ColumnWidth
@@ -95,7 +95,7 @@ Configuration
    A list containing the rows of the structure.
 
    ColumnStart
-   -------
+   --------------
    Indicates which column the data field starts in.
 
    DF
@@ -103,7 +103,7 @@ Configuration
    Represents the dynamic field; the field name should be indicated.
 
    Mandatory
-   -------
+   --------------
    Indicates if the dynamic field is mandatory ('1' for yes and '0' for 
    no).
 
