@@ -62,10 +62,16 @@ Field Configuration
 .. figure:: images/FieldConfiguration.jpg
    :alt: General dynamic field configuration
 
+   General dynamic field configuration
+
+
 Configuration
 ------------------
 .. figure:: images/Configuration.jpg
    :alt: Set dynamic field configuration
+
+   Set dynamic field configuration
+
 
 Dynamic Fields
 --------------
@@ -109,10 +115,14 @@ After configuring and publishing the field in a creation form, this is how it ap
 .. figure:: images/FieldDisplay.jpg
    :alt: Field display in form
 
+   Field display in form
+
 Multiple Values
    Allows using multiple values in the field structure.
 .. figure:: images/MultipleValues.jpg
    :alt: Field duplication with multiple values
+
+   Field duplication with multiple values
 
 
 
