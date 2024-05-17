@@ -88,7 +88,7 @@ Group of the Agents
 
 
 Reference Dynamic Field Customer Company
-~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. figure:: images/dynamic-field-reference-company.png
    :alt: Compnay Reference Dynamic Field Settings
@@ -127,7 +127,7 @@ Add Reference Filter
 
 
 Reference Dynamic Field Customer User
-------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. figure:: images/dynamic-field-reference-customer-user.png
    :alt: Customer User Reference Dynamic Field Settings
