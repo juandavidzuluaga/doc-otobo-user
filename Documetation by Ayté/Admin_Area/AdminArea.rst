@@ -58,4 +58,6 @@ This field allows for the selection of whether notifications should be sent to r
 
 .. figure:: images/Notification_3.jpg
    :alt: Option outside working hours
+
+
    Option outside working hours
