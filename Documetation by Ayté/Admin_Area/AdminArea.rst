@@ -7,15 +7,19 @@ Currently, in the personal preferences, it is possible to view and configure all
 
 .. figure:: images/Languages_1.jpg
    :alt: Field languages - personal preferences
+   Field languages - personal preferences
 
 .. figure:: images/Languages_2.jpg
    :alt: Possible languages
+   Possible languages
 
 .. figure:: images/Languages_3.jpg
    :alt: Possible languages 
+   Possible languages
 
 .. figure:: images/Languages_4.jpg
    :alt: Possible languages
+   Possible languages
 
 
 
@@ -27,6 +31,7 @@ A new option has been added to the ticket notification settings. Now, within the
 
 .. figure:: images/Notification_1.jpg
    :alt: Recipient block configuration
+   Recipient block configuration
 
 
 This field allows for the selection of whether notifications should be sent to recipients during working hours or outside of them:
@@ -35,9 +40,11 @@ This field allows for the selection of whether notifications should be sent to r
 
 .. figure:: images/Notification_2.jpg
    :alt: Option working hours
+   Option working hours
 
 
 - Conversely, choosing the non-working hours option will result in notifications being sent outside of the defined working hours.
 
 .. figure:: images/Notification_3.jpg
    :alt: Option outside working hours
+   Option outside working hours
